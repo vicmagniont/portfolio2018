@@ -1,0 +1,59 @@
+body {
+  background: black;
+  font-family: Archia
+}
+.portfolio{
+  display: flex;
+  top: 500px;
+  position: relative;
+  background-color: black;
+  color: white;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.block{
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  filter: grayscale(100%);
+  transition: 0.1s ease-in-out
+
+}
+.block:hover{
+  filter: grayscale(0%)
+}
+.ablock{
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+.ablock100{
+  width: 100%
+}
+.block50{
+  width: 50%
+}
+.ablock66{
+  width: 67%
+}
+.ablock33{
+  width: 33%
+}
+.block34{
+  width: 34%
+}
+.ablock50{
+  width: 50%
+}
+
+.text_block{
+  height: 500px
+}

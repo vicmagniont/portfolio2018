@@ -1,0 +1,53 @@
+.resumetext{
+  font-size: 1.3em;
+  padding: 10%;
+  line-height: 150%
+}
+.text_block{
+  width: 400px;
+  flex-flow: row;
+  background-color: black;
+  height: 200px;
+  opacity: 0;
+  transition: 0.1s ease-in-out
+
+}
+.block:hover .text_block{
+  opacity: 1;
+}
+.block{
+  justify-content: flex-start;
+}
+.title_project {
+  padding-left: 50px;
+  padding-top: 40px;
+
+}
+.date_project {
+  padding-left: 50px
+}
+.type_project{
+  padding-left: 50px
+}
+.contact{
+  text-align: center;
+  width: 100%;
+  font-size: 1.3em;
+  line-height: 175%;
+}
+.contacta{
+  transition: 0.2s ease-in-out
+}
+.contacta:hover{
+  color: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.block34{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}

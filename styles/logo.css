@@ -1,0 +1,56 @@
+header{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 500px;
+  position: fixed;
+  width: 100%;
+  margin: 0
+}
+.carre{
+  height: 50px;
+    width: 50px;
+    background: white;
+    transform: rotate(45deg);
+    margin: 0;
+    display: inline-block;
+    border: solid  0.5px white
+}
+#logo{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-wrap:  wrap;
+
+}
+#carre1{
+  transform: translateX(16.2px)  translateY(-35px)  rotate(45deg);
+}
+#carre2{
+  transform: rotate(45deg);
+}
+
+#carre3{
+  transform: translateX(-15.9px)  translateY(-35px)  rotate(45deg);
+}
+
+#symbol{
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-top: 50px;
+  flex-basis: 100%
+}
+
+.logotext{
+  color: white;
+  text-align: center;
+  margin-top: 0;
+  line-height: 80%;
+  font-size: 1.2em;
+  flex-wrap: wrap;
+}

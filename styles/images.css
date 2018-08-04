@@ -1,0 +1,36 @@
+#block1{
+  width: 100%;
+  background-image: url("../images/stencil/11.jpg");
+  background-size: cover;
+}
+#block2{
+  width: 100%;
+  background-image: url("../images/rue/6.jpg");
+  background-size: cover;
+}
+#block3{
+  width: 100%;
+  background-image: url("../images/alpha/4.jpg");
+  background-size: cover;
+
+}
+#block4{
+  width: 100%;
+  background-image: url("../images/fonted/1.jpg");
+  background-size: cover;
+}
+#block5{
+  width: 100%;
+  background-image: url("../images/capu/1.jpg");
+  background-size: cover;
+}
+#block6{
+  width: 100%;
+  background-image: url("../images/base/3.jpg");
+  background-size: cover;
+}
+#block7{
+  width: 100%;
+  background-image: url("../images/panam/1.jpg");
+  background-size: cover;
+}
