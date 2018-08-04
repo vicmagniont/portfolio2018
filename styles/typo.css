@@ -3,6 +3,12 @@
   padding: 10%;
   line-height: 150%
 }
+h1{
+  font-size: 1.4em
+}
+h2{
+  font-size: 1.4em
+}
 .text_block{
   width: 400px;
   flex-flow: row;
@@ -29,6 +35,10 @@
 .type_project{
   padding-left: 50px
 }
+.symbol2{
+  transform: rotate(180deg) scale(0.7);
+}
+
 .contact{
   text-align: center;
   width: 100%;
