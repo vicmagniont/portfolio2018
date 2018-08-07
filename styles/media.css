@@ -1,0 +1,47 @@
+@media (max-width: 1150px) {
+  .resumetext{
+    font-size: 1em
+  }
+  .text_block{
+    width: 250px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+
+  }
+.title_project{
+  padding-top: 15px;
+  padding-left: 20px
+}
+.date_project{
+  padding-left: 20px
+
+}
+.type_project{
+  padding-left: 20px
+
+}
+.contact{
+  font-size: 1em
+}
+}
+@media (max-width: 830px) {
+.block{
+  width: 100%;
+  height: 200px
+}
+.ablock{
+  width: 100%;
+  height: 200px
+}
+#resume{
+  height: 400px;
+  font-size: 0.8em;
+}
+.resumetext{
+  line-height: 180%
+}
+.contact{
+  font-size: 0.8em
+}
+}
