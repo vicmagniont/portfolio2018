@@ -34,3 +34,84 @@
   background-image: url("../images/panam/1.jpg");
   background-size: cover;
 }
+#stencilhero{
+  background-image: url("../images/stencil/11.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+#ruehero{
+  background-image: url("../images/rue/6.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+#stencilblock1{
+  background-image: url("../images/stencil/1.svg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock1{
+  background-image: url("../images/rue/8.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock2{
+  background-image: url("../images/rue/2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock3{
+  background-image: url("../images/rue/3.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock4{
+  background-image: url("../images/rue/4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock5{
+  background-image: url("../images/rue/9.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock6{
+  background-image: url("../images/rue/7.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock7{
+  background-image: url("../images/rue/12.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock8{
+  background-image: url("../images/rue/10.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock9{
+  background-image: url("../images/rue/13.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock10{
+  background-image: url("../images/rue/15.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#rueblock11{
+  background-image: url("../images/rue/16.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#stencilblock2{
+  background-image: url("../images/stencil/2.svg");
+  background-size: cover;
+  background-position: center;
+
+}
+#stencilblock3{
+  background-image: url("../images/stencil/3.svg");
+  background-size: cover;
+  background-position: center;
+}

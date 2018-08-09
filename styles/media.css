@@ -28,20 +28,65 @@
 @media (max-width: 830px) {
 .block{
   width: 100%;
-  height: 200px
+  height: 250px
 }
 .ablock{
   width: 100%;
-  height: 200px
+  height: 250px
 }
 #resume{
-  height: 400px;
-  font-size: 0.8em;
+  height: 600px;
+  font-size: 1em;
+}
+#resume2{
+  height: 400px
+}
+.text50{
+  width: 100%;
+
+}
+.heroimage{
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+}
+.intro{
+  height: 300px
+}
+h4{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0;
+  text-align: center;
 }
 .resumetext{
   line-height: 180%
 }
+.block33 {
+  width: 100%;
+  height: 250px
+}
+.block34 {
+  width: 100%;
+  height: 250px
+}
+.block50 {
+  width: 100%;
+  height: 250px
+}
+.block66 {
+  width: 100%;
+  height: 250px
+}
+.block100 {
+  width: 100%;
+  height: 250px
+}
 .contact{
-  font-size: 0.8em
+  font-size: 1em;
+  line-height: 180%
+}
+.block{
+  filter: grayscale(0%);
 }
 }

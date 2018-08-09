@@ -57,3 +57,52 @@ body {
 .text_block{
   height: 500px
 }
+.heroimage{
+  width: 100%;
+  height: 500px;
+  background-position: center;
+}
+.intro{
+  width: 100%;
+  height: 500px;
+  color: white;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-flow: column;
+}
+.block50{
+  width: 50%;
+  height: 500px;
+}
+.block66{
+  width: 67%;
+  height: 500px;
+}
+.block100{
+  width: 100%;
+  height: 500px;
+}
+.block33{
+  width: 33%;
+  height: 500px;
+}
+.block34{
+  width: 34%;
+  height: 500px;
+}
+.wrap{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.text50{
+  width: 33%;
+  height: 500px;
+color: white;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
