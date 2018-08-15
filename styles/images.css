@@ -39,6 +39,11 @@
   background-size: cover;
   background-attachment: fixed;
 }
+#fontedhero{
+  background-image: url("../images/fonted/3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
 #ruehero{
   background-image: url("../images/rue/6.jpg");
   background-size: cover;
@@ -46,8 +51,117 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+#alphahero{
+  background-image: url("../images/alpha/5.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+#stencilhero{
+  background-image: url("../images/stencil/11.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 #stencilblock1{
   background-image: url("../images/stencil/1.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#alphablock1{
+  background-image: url("../images/alpha/1.jpg");
+  background-size: cover;
+  background-position: center;  background-repeat: no-repeat;
+}
+#alphablock2{
+  background-image: url("../images/alpha/4.jpg");
+  background-size: cover;
+  background-position: center;  background-repeat: no-repeat;
+}
+#alphablock3{
+  background-image: url("../images/alpha/5.jpg");
+  background-size: cover;
+  background-position: center;  background-repeat: no-repeat;
+}
+#alphablock4{
+  background-image: url("../images/alpha/6.jpg");
+  background-size: cover;
+  background-position: center;  background-repeat: no-repeat;
+}
+#alphablock5{
+  background-image: url("../images/alpha/7.jpg");
+  background-size: cover;
+  background-position: center;  background-repeat: no-repeat;
+}
+#alphablock6{
+  background-image: url("../images/alpha/8.jpg");
+  background-size: cover;
+  background-position: center;  background-repeat: no-repeat;
+}
+#alphablock7{
+  background-image: url("../images/alpha/2.jpg");
+  background-size: cover;
+  background-position: center;  background-repeat: no-repeat;
+}
+#stencilblock2{
+  background-image: url("../images/stencil/2.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock3{
+  background-image: url("../images/stencil/3.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock4{
+  background-image: url("../images/stencil/4.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock5{
+  background-image: url("../images/stencil/5.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock6{
+  background-image: url("../images/stencil/6.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock7{
+  background-image: url("../images/stencil/7.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock8{
+  background-image: url("../images/stencil/8.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock9{
+  background-image: url("../images/stencil/9.svg");
+  background-size: contain;
+  background-position: center;  background-repeat: no-repeat;
+
+}
+#stencilblock10{
+  background-image: url("../images/stencil/10.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#stencilblock11{
+  background-image: url("../images/stencil/12.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -114,6 +228,46 @@
 }
 #stencilblock3{
   background-image: url("../images/stencil/3.svg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock1{
+  background-image: url("../images/fonted/2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock2{
+  background-image: url("../images/fonted/11.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock3{
+  background-image: url("../images/fonted/4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock4{
+  background-image: url("../images/fonted/5.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock5{
+  background-image: url("../images/fonted/6.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock6{
+  background-image: url("../images/fonted/7.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock7{
+  background-image: url("../images/fonted/8.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fontedblock8{
+  background-image: url("../images/fonted/9.jpg");
   background-size: cover;
   background-position: center;
 }
