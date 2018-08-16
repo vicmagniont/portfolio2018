@@ -1,0 +1,39 @@
+#symbol {
+  animation-duration: 1.6s;
+  animation-name: slidein;
+  animation-timing-function: ease-out;
+}
+
+@keyframes slidein {
+  from {
+    transform: translateY(-300px);
+  }
+
+  75%{
+    transform: translateY(-300px);
+
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
+#vicmag {
+  animation-duration: 1.6s;
+  animation-name: opac;
+  animation-timing-function: ease-out;
+}
+@keyframes opac {
+from {
+  opacity: 0;
+}
+
+75%{
+  opacity: 0;
+}
+
+to {
+  opacity: 1;
+}
+}

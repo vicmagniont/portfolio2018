@@ -3,6 +3,24 @@
   background-image: url("../images/stencil/11.jpg");
   background-size: cover;
 }
+.block{
+  background-position: center;
+}
+.block50{
+  background-position: center;
+}
+.block33{
+  background-position: center;
+}
+.block66{
+  background-position: center;
+}
+.block34{
+  background-position: center;
+}
+.block100{
+  background-position: center;
+}
 #block2{
   width: 100%;
   background-image: url("../images/rue/6.jpg");
@@ -31,7 +49,7 @@
 }
 #block7{
   width: 100%;
-  background-image: url("../images/panam/1.jpg");
+  background-image: url("../images/paname/1.jpg");
   background-size: cover;
 }
 #stencilhero{
@@ -51,8 +69,29 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+#panamehero{
+  background-image: url("../images/paname/1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#capuhero{
+  background-image: url("../images/capu/1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 #alphahero{
   background-image: url("../images/alpha/5.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+#basehero{
+  background-image: url("../images/base/4.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: bottom;
@@ -268,6 +307,144 @@
 }
 #fontedblock8{
   background-image: url("../images/fonted/9.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock1{
+  background-image: url("../images/capu/2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock2{
+  background-image: url("../images/capu/3.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock12{
+  background-image: url("../images/capu/4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock3{
+  background-image: url("../images/capu/5.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock4{
+  background-image: url("../images/capu/6.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock5{
+  background-image: url("../images/capu/7.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock6{
+  background-image: url("../images/capu/8.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock7{
+  background-image: url("../images/capu/9.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock8{
+  background-image: url("../images/capu/10.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock9{
+  background-image: url("../images/capu/11.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock10{
+  background-image: url("../images/capu/12.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#capublock11{
+  background-image: url("../images/capu/13.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#panameblock1{
+  background-image: url("../images/paname/1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#panameblock2{
+  background-image: url("../images/paname/2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#panameblock3{
+  background-image: url("../images/paname/3.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#panameblock4{
+  background-image: url("../images/paname/4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#panameblock5{
+  background-image: url("../images/paname/5.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#panameblock6{
+  background-image: url("../images/paname/6.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#panameblock7{
+  background-image: url("../images/paname/7.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#baseblock1{
+  background-image: url("../images/base/1.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+#baseblock2{
+  background-image: url("../images/base/2.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#baseblock3{
+  background-image: url("../images/base/3.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#baseblock4{
+  background-image: url("../images/base/4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#baseblock5{
+  background-image: url("../images/base/5.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#baseblock6{
+  background-image: url("../images/base/6.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#baseblock7{
+  background-image: url("../images/base/7.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#baseblock8{
+  background-image: url("../images/base/8.jpg");
   background-size: cover;
   background-position: center;
 }
